@@ -1,0 +1,220 @@
+{
+  "files": [
+    {
+      "path": "/img/covers/between-the-lines-480.avif",
+      "width": 480,
+      "height": 480,
+      "bytes": 6372
+    },
+    {
+      "path": "/img/covers/between-the-lines-480.webp",
+      "width": 480,
+      "height": 480,
+      "bytes": 6652
+    },
+    {
+      "path": "/img/covers/between-the-lines-960.avif",
+      "width": 960,
+      "height": 960,
+      "bytes": 33589
+    },
+    {
+      "path": "/img/covers/between-the-lines-960.webp",
+      "width": 960,
+      "height": 960,
+      "bytes": 36446
+    },
+    {
+      "path": "/img/covers/chasing-weakend-dreams-480.avif",
+      "width": 480,
+      "height": 480,
+      "bytes": 11276
+    },
+    {
+      "path": "/img/covers/chasing-weakend-dreams-480.webp",
+      "width": 480,
+      "height": 480,
+      "bytes": 17448
+    },
+    {
+      "path": "/img/covers/chasing-weakend-dreams-960.avif",
+      "width": 960,
+      "height": 960,
+      "bytes": 40122
+    },
+    {
+      "path": "/img/covers/chasing-weakend-dreams-960.webp",
+      "width": 960,
+      "height": 960,
+      "bytes": 57518
+    },
+    {
+      "path": "/img/covers/not-my-compromise-480.avif",
+      "width": 480,
+      "height": 480,
+      "bytes": 9254
+    },
+    {
+      "path": "/img/covers/not-my-compromise-480.webp",
+      "width": 480,
+      "height": 480,
+      "bytes": 10660
+    },
+    {
+      "path": "/img/covers/not-my-compromise-960.avif",
+      "width": 960,
+      "height": 960,
+      "bytes": 71358
+    },
+    {
+      "path": "/img/covers/not-my-compromise-960.webp",
+      "width": 960,
+      "height": 960,
+      "bytes": 87148
+    },
+    {
+      "path": "/img/covers/show-me-something-480.avif",
+      "width": 480,
+      "height": 480,
+      "bytes": 6880
+    },
+    {
+      "path": "/img/covers/show-me-something-480.webp",
+      "width": 480,
+      "height": 480,
+      "bytes": 7624
+    },
+    {
+      "path": "/img/covers/show-me-something-960.avif",
+      "width": 960,
+      "height": 960,
+      "bytes": 33441
+    },
+    {
+      "path": "/img/covers/show-me-something-960.webp",
+      "width": 960,
+      "height": 960,
+      "bytes": 40960
+    },
+    {
+      "path": "/img/covers/you-know-what-it-takes-1600.avif",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 35136
+    },
+    {
+      "path": "/img/covers/you-know-what-it-takes-1600.webp",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 40766
+    },
+    {
+      "path": "/img/covers/you-know-what-it-takes-480.avif",
+      "width": 480,
+      "height": 480,
+      "bytes": 3277
+    },
+    {
+      "path": "/img/covers/you-know-what-it-takes-480.webp",
+      "width": 480,
+      "height": 480,
+      "bytes": 3412
+    },
+    {
+      "path": "/img/covers/you-know-what-it-takes-960.avif",
+      "width": 960,
+      "height": 960,
+      "bytes": 12613
+    },
+    {
+      "path": "/img/covers/you-know-what-it-takes-960.webp",
+      "width": 960,
+      "height": 960,
+      "bytes": 14514
+    },
+    {
+      "path": "/img/lineup/lineup-1200.avif",
+      "width": 1200,
+      "height": 300,
+      "bytes": 13786
+    },
+    {
+      "path": "/img/lineup/lineup-1200.webp",
+      "width": 1200,
+      "height": 300,
+      "bytes": 19672
+    },
+    {
+      "path": "/img/lineup/lineup-2400.avif",
+      "width": 2400,
+      "height": 600,
+      "bytes": 60079
+    },
+    {
+      "path": "/img/lineup/lineup-2400.webp",
+      "width": 2400,
+      "height": 600,
+      "bytes": 79702
+    },
+    {
+      "path": "/img/og/between-the-lines.jpg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 36591
+    },
+    {
+      "path": "/img/og/chasing-weakend-dreams.jpg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 61784
+    },
+    {
+      "path": "/img/og/not-my-compromise.jpg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 51141
+    },
+    {
+      "path": "/img/og/show-me-something.jpg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 35033
+    },
+    {
+      "path": "/img/og/site.jpg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 42651
+    },
+    {
+      "path": "/img/og/you-know-what-it-takes.jpg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 19807
+    }
+  ],
+  "hero_seam": {
+    "source": "ICRM-006_You_Know_What_It_Takes_MASTER_3000x3000.png",
+    "crop_box_in_source": [
+      418,
+      381,
+      2586,
+      2549
+    ],
+    "crop_size": 2168,
+    "object_bbox_in_source": [
+      1220,
+      724,
+      1785,
+      2207
+    ],
+    "object_height": 1483,
+    "crop_to_object_height_ratio": 1.462,
+    "text_top_in_source": 2573,
+    "seam_y": 0.50554,
+    "seam_x0": 0.38192,
+    "seam_x1": 0.62638,
+    "seam_y_px_in_crop": 1096,
+    "bottom_band_max_value": 7.0
+  }
+}

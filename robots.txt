@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iscreamband.com/sitemap.xml
